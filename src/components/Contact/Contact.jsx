@@ -12,10 +12,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_axbtt7a",  // Replace with your EmailJS Service ID
-        "template_1ziboq3",  // Replace with your EmailJS Template ID
+        "service_mmymi8r",  // Replace with your EmailJS Service ID
+        "template_0ptr1v2",  // Replace with your EmailJS Template ID
         form.current,
-        "Rz7W9pVF0HdDryNNL"  // Replace with your EmailJS Public Key
+        "Q279bVZwk0AfTLzwZ"  // Replace with your EmailJS Public Key
       )
       .then(
         () => {
