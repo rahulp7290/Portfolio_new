@@ -46,7 +46,7 @@ import vpsLogo from "./assets/education_logo/bardsley.jpg";
 // Project Section Logo's
 import githubdetLogo from "./assets/work_logo/a2z_img.png";
 import csprepLogo from "./assets/work_logo/netflix.png";
-import movierecLogo from "./assets/work_logo/FoodVilla.png";
+import movierecLogo from "./assets/work_logo/foodVilla.png";
 import taskremLogo from "./assets/work_logo/youtube.png";
 import npmLogo from "./assets/work_logo/npm.png";
 import webverLogo from "./assets/work_logo/web_dig.png";
